@@ -22,5 +22,11 @@ git clone git@github.com:Dylkln/NetworkHomologsFinder.git
 ## How to use the program
 
 ```
+python program/NHF.py -n <NETWORK FILE> -i <ID LIST FILE> -wd <WORKING DIRECTORY>
+```
 
+To run the test, use:
+
+```
+python program/NHF.py -n test_NHF/network_NHF_test.gz -i test_NHF/list_NHF_test -wd working_dir_NHF
 ```
