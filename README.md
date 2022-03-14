@@ -1,7 +1,7 @@
 # NetworkHomologsFinder
 
 NHF is a program that finds homologs in a sequence similarity network.
-It takes a sequence similarity network and an ID list in input, and returns "run" files and homologs in output.
+It takes a sequence similarity network and an ID list in input, and returns "run" files in output.
 
 ## Download the program
 
